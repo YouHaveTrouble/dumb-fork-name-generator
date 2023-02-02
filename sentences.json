@@ -1,0 +1,10 @@
+[
+  "[prefix][fork][suffix] | [perk] [thing]",
+  "[prefix][fork][suffix] | [version] | [perk] [thing]",
+  "[prefix][fork][suffix] | [perk] [thing] and [thing]",
+  "[prefix][fork][suffix] | [version] | [perk] [thing] and [thing]",
+  "[price] ⚡[prefix][fork][suffix]⚡ [perk] [thing]",
+  "[prefix][fork][suffix] [version] [extra]",
+  "[prefix][fork][suffix] | [version] |[extra] | [perk] [thing]",
+  "◆[prefix][fork][suffix]◆[extra]◆[perk] [thing]"
+]
