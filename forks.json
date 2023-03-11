@@ -1,6 +1,9 @@
 [
   "Bukkit",
   "Spigot",
+  "Spigot",
+  "Spigot",
+  "Paper",
   "Paper",
   "Tuinity",
   "TwoInEyeTee",
@@ -12,5 +15,6 @@
   "Airplane",
   "Pufferfish",
   "Mirai",
-  "Akarin"
+  "Akarin",
+  "Cord"
 ]
